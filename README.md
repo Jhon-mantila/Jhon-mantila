@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jhon-mantila
-- 👀 I’m interested in ... Java, framework spring, unity, c#, php, Boopstrat, Blender, vectores, Animación
+- 👀 I’m interested in ... Java, unity, c#, php,javascrip, css, html, Boopstrat, vectores, Animación, inkscape
 - 🌱 I’m currently learning ... Java, spring, Laravel
 - 💞️ I’m looking to collaborate on ...Proyectos de Programación en java o php
 - 📫 How to reach me ... jhon.e.mantilla@gmail.com o kaiser_4tu@hotmail.com
